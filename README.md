@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaduvanshimonika&label=Profile%20views&color=0e75b6&style=flat" alt="yaduvanshimonika" /> </p>
 
-- 🌱 I’m already learning **Java, Spring Boot, Spring Data JPA, Rest APIs, MySQL, etc.**
+- 🌱 I’m already learn **Java, Spring Boot, Spring Data JPA, Rest APIs, MySQL, etc.**
 - 🌱 I’m currently searching a Job as a **Java Developer**
 
 
