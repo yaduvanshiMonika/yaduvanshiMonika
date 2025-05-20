@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaduvanshimonika&label=Profile%20views&color=0e75b6&style=flat" alt="yaduvanshimonika" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot, MySQL, etc.**
+- 🌱 I’m already learning **Java, Spring Boot, Spring Data JPA, Rest APIs, MySQL, etc.**
+- 🌱 I’m currently searching a Job as a **Java Developer**
+
 
 - 📫 How to reach me **https://www.linkedin.com/in/monika-yadav-3965062b2**
 
